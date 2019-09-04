@@ -1,0 +1,38 @@
+{
+  "consolidationInstanceReport" : {
+    "consolidationInstanceReportType" : "consolidationInstanceReportType",
+    "consolidationInstanceReport" : {},
+    "consolidationInstanceReportParameters" : "consolidationInstanceReportParameters",
+    "consolidationInstanceReportRecord" : {}
+  },
+  "consolidationInstanceAnalysis" : {
+    "consolidationInstanceAnalysisReportType" : "consolidationInstanceAnalysisReportType",
+    "consolidationInstanceAnalysisParameters" : "consolidationInstanceAnalysisParameters",
+    "consolidationInstanceAnalysisRecord" : {},
+    "consolidationInstanceAnalysisReport" : {}
+  },
+  "consolidationInstanceRecord" : {
+    "productInstanceReference" : {
+      "productFulfillmentArrangementInstanceReportType" : "productFulfillmentArrangementInstanceReportType",
+      "productFulfillmentArrangementInstanceReport" : {
+        "reportPeriod" : "reportPeriod",
+        "reportFormatTemplate" : "reportFormatTemplate",
+        "reportOptionsSelectionCriteria" : "reportOptionsSelectionCriteria",
+        "report" : {}
+      }
+    },
+    "customerTaxHandlingConsolidationWorkProducts" : "customerTaxHandlingConsolidationWorkProducts"
+  },
+  "consolidationRetrieveActionTaskRecord" : {},
+  "customerTaxObligationFulfillmentArrangementInstanceRecord" : {
+    "customerTaxReportingSchedule" : "customerTaxReportingSchedule",
+    "applicableTaxationRuleReference" : "774817",
+    "customerReference" : "736247",
+    "customerProductServiceEligibilityInstanceRecord" : {},
+    "customerTaxHandlingArrangementRecord" : {},
+    "taxationJurisdictionReference" : "725358",
+    "applicableTaxationRuleDefinition" : "applicableTaxationRuleDefinition"
+  },
+  "consolidationRetrieveActionResponse" : "consolidationRetrieveActionResponse",
+  "consolidationRetrieveActionTaskReference" : "CRATR740399"
+}

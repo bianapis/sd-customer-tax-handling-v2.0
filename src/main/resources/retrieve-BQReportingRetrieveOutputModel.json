@@ -1,0 +1,33 @@
+{
+  "reportingInstanceRecord" : {
+    "customerTaxReportType" : "customerTaxReportType",
+    "customerTaxReportPeriod" : "customerTaxReportPeriod",
+    "customerTaxReportInstanceReference" : "791203",
+    "customerTaxHandlingReportingWorkProducts" : "customerTaxHandlingReportingWorkProducts",
+    "customerTaxReportReport" : {}
+  },
+  "reportingRetrieveActionTaskReference" : "RRATR728919",
+  "customerTaxObligationFulfillmentArrangementInstanceRecord" : {
+    "customerTaxReportingSchedule" : "customerTaxReportingSchedule",
+    "applicableTaxationRuleReference" : "776456",
+    "customerReference" : "706741",
+    "customerProductServiceEligibilityInstanceRecord" : {},
+    "customerTaxHandlingArrangementRecord" : {},
+    "taxationJurisdictionReference" : "759754",
+    "applicableTaxationRuleDefinition" : "applicableTaxationRuleDefinition"
+  },
+  "reportingRetrieveActionResponse" : "reportingRetrieveActionResponse",
+  "reportingRetrieveActionTaskRecord" : {},
+  "reportingInstanceReport" : {
+    "reportingInstanceReportType" : "reportingInstanceReportType",
+    "reportingInstanceReportRecord" : {},
+    "reportingInstanceReport" : {},
+    "reportingInstanceReportParameters" : "reportingInstanceReportParameters"
+  },
+  "reportingInstanceAnalysis" : {
+    "reportingInstanceAnalysisRecord" : {},
+    "reportingInstanceAnalysisParameters" : "reportingInstanceAnalysisParameters",
+    "reportingInstanceAnalysisReportType" : "reportingInstanceAnalysisReportType",
+    "reportingInstanceAnalysisReport" : {}
+  }
+}

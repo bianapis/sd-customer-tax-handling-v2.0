@@ -1,0 +1,29 @@
+{
+  "analysisInstanceAnalysis" : {
+    "analysisInstanceAnalysisRecord" : {},
+    "analysisInstanceAnalysisReport" : {},
+    "analysisInstanceAnalysisReportType" : "analysisInstanceAnalysisReportType",
+    "analysisInstanceAnalysisParameters" : "analysisInstanceAnalysisParameters"
+  },
+  "customerTaxObligationFulfillmentArrangementInstanceRecord" : {
+    "customerTaxReportingSchedule" : "customerTaxReportingSchedule",
+    "applicableTaxationRuleReference" : "728390",
+    "customerReference" : "729427",
+    "customerProductServiceEligibilityInstanceRecord" : {},
+    "customerTaxHandlingArrangementRecord" : {},
+    "taxationJurisdictionReference" : "794149",
+    "applicableTaxationRuleDefinition" : "applicableTaxationRuleDefinition"
+  },
+  "analysisRetrieveActionTaskRecord" : {},
+  "analysisInstanceReport" : {
+    "analysisInstanceReportParameters" : "analysisInstanceReportParameters",
+    "analysisInstanceReport" : {},
+    "analysisInstanceReportRecord" : {},
+    "analysisInstanceReportType" : "analysisInstanceReportType"
+  },
+  "analysisInstanceRecord" : {
+    "customerTaxHandlingAnalysisWorkProducts" : "customerTaxHandlingAnalysisWorkProducts"
+  },
+  "analysisRetrieveActionTaskReference" : "CTOFARATR764634",
+  "analysisRetrieveActionResponse" : "analysisRetrieveActionResponse"
+}

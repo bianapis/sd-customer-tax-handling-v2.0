@@ -1,0 +1,26 @@
+{
+  "consolidationUpdateActionTaskRecord" : {},
+  "consolidationInstanceRecord" : {
+    "productInstanceReference" : {
+      "productFulfillmentArrangementInstanceReportType" : "productFulfillmentArrangementInstanceReportType",
+      "productFulfillmentArrangementInstanceReport" : {
+        "reportPeriod" : "reportPeriod",
+        "reportFormatTemplate" : "reportFormatTemplate",
+        "reportOptionsSelectionCriteria" : "reportOptionsSelectionCriteria",
+        "report" : {}
+      }
+    },
+    "customerTaxHandlingConsolidationWorkProducts" : "customerTaxHandlingConsolidationWorkProducts"
+  },
+  "customerTaxObligationFulfillmentArrangementInstanceRecord" : {
+    "customerTaxReportingSchedule" : "customerTaxReportingSchedule",
+    "applicableTaxationRuleReference" : "719384",
+    "customerReference" : "729031",
+    "customerProductServiceEligibilityInstanceRecord" : {},
+    "customerTaxHandlingArrangementRecord" : {},
+    "taxationJurisdictionReference" : "731295",
+    "applicableTaxationRuleDefinition" : "applicableTaxationRuleDefinition"
+  },
+  "updateResponseRecord" : {},
+  "consolidationUpdateActionTaskReference" : "CUATR730807"
+}

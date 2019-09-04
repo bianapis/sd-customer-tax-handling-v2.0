@@ -1,0 +1,24 @@
+{
+  "customerTaxObligationFulfillmentArrangementRetrieveActionResponse" : "customerTaxObligationFulfillmentArrangementRetrieveActionResponse",
+  "customerTaxObligationFulfillmentArrangementRetrieveActionTaskRecord" : {},
+  "customerTaxObligationFulfillmentArrangementInstanceAnalysis" : {
+    "customerTaxObligationFulfillmentArrangementInstanceAnalysisReport" : {},
+    "customerTaxObligationFulfillmentArrangementInstanceAnalysisReportType" : "customerTaxObligationFulfillmentArrangementInstanceAnalysisReportType",
+    "customerTaxObligationFulfillmentArrangementInstanceAnalysisData" : "customerTaxObligationFulfillmentArrangementInstanceAnalysisData"
+  },
+  "customerTaxObligationFulfillmentArrangementInstanceRecord" : {
+    "customerTaxReportingSchedule" : "customerTaxReportingSchedule",
+    "applicableTaxationRuleReference" : "799243",
+    "customerReference" : "763224",
+    "customerProductServiceEligibilityInstanceRecord" : {},
+    "customerTaxHandlingArrangementRecord" : {},
+    "taxationJurisdictionReference" : "796709",
+    "applicableTaxationRuleDefinition" : "applicableTaxationRuleDefinition"
+  },
+  "customerTaxObligationFulfillmentArrangementRetrieveActionTaskReference" : "CTOFARATR768654",
+  "customerTaxObligationFulfillmentArrangementInstanceReportRecord" : {
+    "customerTaxObligationFulfillmentArrangementInstanceReportType" : "customerTaxObligationFulfillmentArrangementInstanceReportType",
+    "customerTaxObligationFulfillmentArrangementInstanceReportData" : "customerTaxObligationFulfillmentArrangementInstanceReportData",
+    "customerTaxObligationFulfillmentArrangementInstanceReport" : {}
+  }
+}

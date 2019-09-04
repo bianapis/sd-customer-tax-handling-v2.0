@@ -1,0 +1,21 @@
+{
+  "reportingInstanceRecord" : {
+    "customerTaxReportType" : "customerTaxReportType",
+    "customerTaxReportPeriod" : "customerTaxReportPeriod",
+    "customerTaxReportInstanceReference" : "704389",
+    "customerTaxHandlingReportingWorkProducts" : "customerTaxHandlingReportingWorkProducts",
+    "customerTaxReportReport" : {}
+  },
+  "customerTaxObligationFulfillmentArrangementInstanceRecord" : {
+    "customerTaxReportingSchedule" : "customerTaxReportingSchedule",
+    "applicableTaxationRuleReference" : "717390",
+    "customerReference" : "704633",
+    "customerProductServiceEligibilityInstanceRecord" : {},
+    "customerTaxHandlingArrangementRecord" : {},
+    "taxationJurisdictionReference" : "767473",
+    "applicableTaxationRuleDefinition" : "applicableTaxationRuleDefinition"
+  },
+  "updateResponseRecord" : {},
+  "reportingUpdateActionTaskRecord" : {},
+  "reportingUpdateActionTaskReference" : "RUATR770450"
+}

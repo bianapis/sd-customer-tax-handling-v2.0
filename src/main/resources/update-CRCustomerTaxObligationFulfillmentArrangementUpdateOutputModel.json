@@ -1,0 +1,13 @@
+{
+  "customerTaxObligationFulfillmentArrangementUpdateActionTaskRecord" : {},
+  "customerTaxObligationFulfillmentArrangementInstanceRecord" : {
+    "customerTaxReportingSchedule" : "customerTaxReportingSchedule",
+    "applicableTaxationRuleReference" : "731495",
+    "customerReference" : "763317",
+    "customerProductServiceEligibilityInstanceRecord" : {},
+    "customerTaxHandlingArrangementRecord" : {},
+    "taxationJurisdictionReference" : "750003"
+  },
+  "updateResponseRecord" : {},
+  "customerTaxObligationFulfillmentArrangementUpdateActionTaskReference" : "CTOFAUATR780687"
+}

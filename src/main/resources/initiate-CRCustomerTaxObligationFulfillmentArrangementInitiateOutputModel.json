@@ -1,0 +1,9 @@
+{
+  "customerTaxObligationFulfillmentArrangementInitiateActionRecord" : {},
+  "customerTaxObligationFulfillmentArrangementInstanceRecord" : {
+    "customerTaxHandlingArrangementRecord" : {}
+  },
+  "customerTaxObligationFulfillmentArrangementInstanceReference" : "CTOFAIR724193",
+  "customerTaxObligationFulfillmentArrangementInitiateActionReference" : "CTOFAIAR761555",
+  "customerTaxObligationFulfillmentArrangementInstanceStatus" : "customerTaxObligationFulfillmentArrangementInstanceStatus"
+}
